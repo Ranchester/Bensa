@@ -1,0 +1,184 @@
+Anna vertailtavien bensa-asemien lukumaara (1-10) >
+6
+
+Anna tankattavan bensiinin maara litroissa >
+
+10
+ 
+Anna 1. bensa-aseman nimi > 
+
+Teppana
+
+Anna litrahinta >
+
+1.30
+
+Etaisyys kotoa (km)>
+
+5
+
+Kaupunki(1) vai Maantieajoa(2) >
+
+1
+
+Anna 2. bensa-aseman nimi > 
+
+Esso
+
+Anna litrahinta >
+
+1.23
+
+Etaisyys kotoa (km)>
+
+7
+
+Kaupunki(1) vai Maantieajoa(2) >
+
+1
+
+Anna 3. bensa-aseman nimi > 
+
+Reiskan asema
+
+Anna litrahinta >
+
+1.25
+
+Etaisyys kotoa (km)>
+
+9
+
+Kaupunki(1) vai Maantieajoa(2) >
+
+2
+
+Anna 4. bensa-aseman nimi > 
+
+Taajaman asema
+
+Anna litrahinta >
+
+1.20
+
+Etaisyys kotoa (km)>
+
+12
+
+Kaupunki(1) vai Maantieajoa(2) >
+
+2
+
+Anna 5. bensa-aseman nimi > 
+
+Ellin asema
+
+Anna litrahinta >
+
+1.20
+
+Etaisyys kotoa (km)>
+
+12
+
+Kaupunki(1) vai Maantieajoa(2) >
+
+2
+
+Anna 6. bensa-aseman nimi > 
+
+Askon asema
+
+Anna litrahinta >
+
+1.20
+
+Etaisyys kotoa (km)>
+
+4
+
+Kaupunki(1) vai Maantieajoa(2) >
+1
+
+Asema: Teppana
+ Litrahinta: 1.3 e
+ Etaisyys: 5 
+Kaupunki(1) vai Maantie(2) 1
+
+
+Aikaa kuluu 8 minuuttia 
+
+
+Bensan kulutus on 0.4 litraa. 
+ ja kokonaishinnaksi tulee: 4.43e
+
+
+Asema: Esso
+ Litrahinta: 1.23 e
+ Etaisyys: 7 
+Kaupunki(1) vai Maantie(2) 1
+
+
+Aikaa kuluu 10 minuuttia 
+
+
+Bensan kulutus on 0.56 litraa. 
+ ja kokonaishinnaksi tulee: 5.81e
+
+
+Asema: Reiskan asema
+ Litrahinta: 1.25 e
+ Etaisyys: 9 
+Kaupunki(1) vai Maantie(2) 2
+
+
+Aikaa kuluu 8 minuuttia 
+
+
+Bensan kulutus on 0.59 litraa. 
+ ja kokonaishinnaksi tulee: 4.5e
+
+
+Asema: Taajaman asema
+ Litrahinta: 1.2 e
+ Etaisyys: 12 
+Kaupunki(1) vai Maantie(2) 2
+
+
+Aikaa kuluu 9 minuuttia 
+
+
+Bensan kulutus on 0.78 litraa. 
+ ja kokonaishinnaksi tulee: 5.58e
+
+
+Asema: Ellin asema
+ Litrahinta: 1.45 e
+ Etaisyys: 3 
+Kaupunki(1) vai Maantie(2) 1
+
+
+Aikaa kuluu 5 minuuttia 
+
+
+Bensan kulutus on 0.24 litraa. 
+ ja kokonaishinnaksi tulee: 3.04e
+
+
+Asema: Askon asema
+ Litrahinta: 1.2 e
+ Etaisyys: 4 
+Kaupunki(1) vai Maantie(2) 1
+
+
+Aikaa kuluu 8 minuuttia 
+
+
+Bensan kulutus on 0.32 litraa. 
+ ja kokonaishinnaksi tulee: 4.16e
+
+
+Bensaasema:
+
+Ellin asema
+on halvin ja sen hinta on:3.04e

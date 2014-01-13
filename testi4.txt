@@ -1,0 +1,15 @@
+Anna vertailtavien bensa-asemien lukumaara (1-10) >
+13
+Ala anna nollaa tai yli kymmenta asemaa
+
+Anna vertailtavien bensa-asemien lukumaara (1-10) >
+0
+
+Ala anna nollaa tai yli kymmenta asemaa
+
+Anna vertailtavien bensa-asemien lukumaara (1-10) >
+2
+
+Anna tankattavan bensiinin maara litroissa >
+
+....

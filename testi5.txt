@@ -1,0 +1,16 @@
+Anna vertailtavien bensa-asemien lukumaara (1-10) >
+d
+
+Syota numero >
+2
+
+Anna tankattavan bensiinin maara litroissa >
+d
+
+Syota numero >
+10
+
+
+Anna 1. bensa-aseman nimi > 
+
+....

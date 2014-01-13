@@ -1,0 +1,40 @@
+Anna vertailtavien bensa-asemien lukumaara (1-10) >
+1 
+Anna tankattavan bensiinin maara litroissa >
+
+10
+Anna 1. bensa-aseman nimi > 
+Reiskan asema
+
+
+Anna litrahinta >
+
+1.32
+
+Etaisyys kotoa (km)>
+
+5
+
+Kaupunki(1) vai Maantieajoa(2) >
+
+1
+
+Asema: Reiskan asema
+ 
+Litrahinta: 1.32 e
+ 
+Etaisyys: 5 
+
+Kaupunki(1) vai Maantie(2) 1
+
+
+Aikaa kuluu 8 minuuttia 
+
+
+Bensan kulutus on 0.4 litraa. 
+ ja kokonaishinnaksi tulee: 4.62e
+
+
+Reiskan asema
+on ainoa asema.
+
